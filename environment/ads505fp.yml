@@ -1,0 +1,25 @@
+name: ads505fp
+channels:
+  - conda-forge
+  - microsoft
+  - defaults
+dependencies:
+  - python=3.8.*
+  - dataclasses
+  - dmba
+  - jupyter
+  - matplotlib
+  - mlxtend
+  - mord
+  - networkx
+  - nltk
+  - numpy
+  - openpyxl
+  - pandas
+  - pydotplus
+  - scikit-learn
+  - scikit-surprise
+  - seaborn
+  - pip
+  - pip:
+    - httpimport
