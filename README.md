@@ -14,7 +14,7 @@ To set up and run this project, please follow these steps:
 
 A business school startup is interested to know if it’s possible to take a data-driven approach for accepting students into their MBA program as opposed to their current method of intuition. Using a data-driven approach could uncover patterns in admissions and improve decision-making efficiency, resulting in better student outcomes.
 
-This project will identify a list of factors that highly correlate with an MBA graduate who finds employment within two months of graduation. Using a data-drive approach has the potential to improve admissions accuracy ensuring that the school continues to produce high graduation and employment placement rates. This could position the school as a prestigious, trustworthy school for prospective MBA students. 
+This project will identify a list of factors that highly correlate with an MBA graduate who finds employment within two months of graduation. Using a data-driven approach has the potential to improve admissions accuracy ensuring that the school continues to produce high graduation and employment placement rates. This could position the school as a prestigious, trustworthy school for prospective MBA students. 
 
 # Contributors
 
