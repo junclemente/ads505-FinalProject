@@ -79,8 +79,8 @@ SOFTWARE.
 
 # Acknowledgements
 
-Graduate Business School Dataset. (n.d.). Retrieved September 26, 2024, from https://www.kaggle.com/datasets/oluwatosinamosu/graduate-business-school-dataset
-Junclemente/ads505-FinalProject. (n.d.). Retrieved September 26, 2024, from https://github.com/junclemente/ads505-FinalProject
+- Graduate Business School Dataset. (n.d.). Retrieved September 26, 2024, from https://www.kaggle.com/datasets/oluwatosinamosu/graduate-business-school-dataset
+- Junclemente/ads505-FinalProject. (n.d.). Retrieved September 26, 2024, from https://github.com/junclemente/ads505-FinalProject
 
 
 
