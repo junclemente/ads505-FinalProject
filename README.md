@@ -2,16 +2,19 @@
 
 # Installation
 
+To set up and run this project, please follow these steps: 
+
+1. Clone the repository
+2. Navigate to the project directory 
+3. Create a virtual environment using conda. The environment used for this project can be found in the `environment` folder. 
+4. Activate the virtual environment.
+5. Launch the Jupyter Notebook to run the analysis. 
+
 # Project Intro / Objective
 
-## Graduate Business School Dataset
+A business school startup is interested to know if it’s possible to take a data-driven approach for accepting students into their MBA program as opposed to their current method of intuition. Using a data-driven approach could uncover patterns in admissions and improve decision-making efficiency, resulting in better student outcomes.
 
-I work as a consultant for small to mid-size and large organizations most especially startups that are data illiterate seeking how they they can effectively leverage data to improve their decision making. I was asked by a manager (name withheld) from business school start up to help their firm take data-driven decisions as opposed to intuitive traditional way they have been adopting. The dataset is from their first graduating class of their MBA program including details and scores from their application, the program itself and their status after 2 months.
-
-### Potential Business Case
-Create a model to determine which students to accept that will be successful after graduation from their MBA program. 
-
-[https://www.kaggle.com/datasets/oluwatosinamosu/graduate-business-school-dataset](https://www.kaggle.com/datasets/oluwatosinamosu/graduate-business-school-dataset)
+This project will identify a list of factors that highly correlate with an MBA graduate who finds employment within two months of graduation. Using a data-drive approach has the potential to improve admissions accuracy ensuring that the school continues to produce high graduation and employment placement rates. This could position the school as a prestigious, trustworthy school for prospective MBA students. 
 
 # Contributors
 
@@ -21,10 +24,10 @@ Create a model to determine which students to accept that will be successful aft
 
 - Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
-- Feature Engineering
-- Predictive Modeling
-- Model Evaluation 
-- Cross-validation
+- Feature Engineering?
+- Predictive Modeling?
+- Model Evaluation ?
+- Cross-validation?
 
 # Technologies
 
