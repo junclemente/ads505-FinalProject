@@ -1,4 +1,4 @@
-Student ID,Undergrad Degree,Undergrad Grade,MBA Grade,Work Experience,Employability (Before),Employability (After),Status,Annual Salary
+Student_ID,Undergrad_Degree,Undergrad_Grade,MBA_Grade,Work_Experience,Employability_Before,Employability_After,Status,Annual_Salary
 1,Business,68.4,90.2,No,252.0,276.0,Placed,111000.0
 2,Business,62.1,92.8,No,423.0,410.0,Not Placed,0.0
 3,Computer Science,70.2,68.7,Yes,101.0,119.0,Placed,107000.0
