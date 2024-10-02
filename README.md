@@ -47,6 +47,7 @@ This project will identify a list of factors that highly correlate with an MBA g
 - Jupyter Notebooks
 - Kaggle
 - Github
+- Conda
 
 # Project Description 
 
