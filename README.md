@@ -38,6 +38,8 @@ This project will identify a list of factors that highly correlate with an MBA g
 - NumPy
 - Matplotlib/Seaborn
 - Sckit-learn
+- Scipy
+- Statsmodels
 - Jupyter Notebooks
 - Kaggle
 - Github
