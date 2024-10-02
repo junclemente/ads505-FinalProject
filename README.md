@@ -28,8 +28,12 @@ This project will identify a list of factors that highly correlate with an MBA g
     - Bivariate Analysis
 - Predictive Modeling
     - Decision Tree
+    - K-Nearest Neighbor
+    - Logistic Regression
+- Hyperparameter Tuning
+    - RandomizedSearchCV
+    - GridSearchCV
 - Model Evaluation ?
-- Cross-validation?
 
 # Technologies
 
