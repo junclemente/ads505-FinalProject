@@ -1,0 +1,577 @@
+Undergrad_Degree,Work_Experience,Employability_Before,Status,Status_enc
+Computer Science,No,185.174285714285,Placed,1
+Engineering,No,206.867959183673,Not Placed,0
+Art,No,234.881836734694,Not Placed,0
+Finance,No,173.900408163265,Placed,1
+Art,No,184.063979591836,Not Placed,0
+Business,No,189.957142857142,Placed,1
+Business,No,225.828571428571,Placed,1
+Business,Yes,217.714795918367,Placed,1
+Finance,No,238.383571428571,Placed,1
+Business,No,170.313265306122,Placed,1
+Art,No,226.768061224489,Not Placed,0
+Engineering,No,234.198571428571,Not Placed,0
+Business,No,229.244897959183,Placed,1
+Business,Yes,249.31581632653,Placed,1
+Computer Science,No,202.255918367347,Placed,1
+Art,No,181.501734693877,Not Placed,0
+Finance,No,240.091734693877,Placed,1
+Business,Yes,260.41887755102,Placed,1
+Business,No,402.0,Placed,1
+Business,Yes,266.0,Placed,1
+Art,No,240.433367346939,Not Placed,0
+Engineering,No,255.550612244898,Not Placed,0
+Business,No,177.999999999999,Placed,1
+Business,No,197.64387755102,Placed,1
+Computer Science,No,250.938571428571,Placed,1
+Computer Science,No,255.208979591837,Placed,1
+Computer Science,No,176.206428571428,Placed,1
+Business,Yes,219.422959183673,Placed,1
+Finance,Yes,342.0,Placed,1
+Computer Science,No,203.964081632653,Placed,1
+Finance,No,76.0,Not Placed,0
+Art,No,197.729285714285,Not Placed,0
+Art,No,243.849693877551,Not Placed,0
+Computer Science,No,240.689591836735,Placed,1
+Engineering,No,184.661836734693,Not Placed,0
+Engineering,No,225.65775510204,Not Placed,0
+Art,No,251.109387755102,Not Placed,0
+Finance,No,215.750408163265,Placed,1
+Art,No,219.508367346938,Not Placed,0
+Business,No,204.476530612244,Placed,1
+Engineering,No,246.155714285714,Not Placed,0
+Engineering,No,205.159795918367,Not Placed,0
+Finance,No,401.0,Placed,1
+Engineering,No,196.618979591836,Not Placed,0
+Engineering,No,249.145,Not Placed,0
+Computer Science,No,202.682959183673,Placed,1
+Business,No,258.283673469388,Placed,1
+Engineering,No,253.415408163265,Not Placed,0
+Business,Yes,199.779081632653,Placed,1
+Art,No,220.362448979592,Not Placed,0
+Finance,No,231.550918367347,Placed,1
+Art,No,201.145612244898,Not Placed,0
+Business,No,176.291836734693,Placed,1
+Computer Science,No,237.273265306122,Placed,1
+Business,Yes,253.586224489796,Placed,1
+Art,No,239.579285714286,Not Placed,0
+Engineering,No,198.327142857142,Not Placed,0
+Engineering,No,288.0,Not Placed,0
+Engineering,No,251.280204081633,Not Placed,0
+Art,No,248.974183673469,Not Placed,0
+Computer Science,No,174.498265306122,Placed,1
+Engineering,No,206.01387755102,Not Placed,0
+Computer Science,No,210.369693877551,Placed,1
+Computer Science,No,233.429897959184,Placed,1
+Engineering,No,170.569489795918,Not Placed,0
+Business,Yes,218.56887755102,Placed,1
+Computer Science,No,222.326836734694,Placed,1
+Computer Science,No,191.579897959183,Placed,1
+Art,No,246.838979591837,Not Placed,0
+Finance,No,196.533571428571,Placed,1
+Art,No,201.572653061224,Not Placed,0
+Art,No,393.0,Placed,1
+Finance,No,212.334081632653,Placed,1
+Business,No,189.103061224489,Placed,1
+Art,No,174.669081632652,Not Placed,0
+Business,No,256.575510204082,Placed,1
+Engineering,No,256.831734693877,Not Placed,0
+Finance,No,186.711632653061,Placed,1
+Art,No,216.946122448979,Not Placed,0
+Art,No,193.031836734693,Not Placed,0
+Finance,No,258.027448979592,Placed,1
+Engineering,No,257.258775510204,Not Placed,0
+Computer Science,No,180.476836734693,Placed,1
+Finance,No,195.252448979591,Placed,1
+Art,No,210.540510204081,Not Placed,0
+Engineering,No,172.277653061224,Not Placed,0
+Business,No,182.270408163265,Placed,1
+Art,No,250.682346938775,Not Placed,0
+Engineering,No,169.715408163265,Not Placed,0
+Engineering,No,181.245510204081,Not Placed,0
+Business,Yes,170.740306122448,Placed,1
+Finance,No,236.248367346939,Placed,1
+Finance,No,230.269795918367,Placed,1
+Business,No,248.034693877551,Placed,1
+Art,No,171.25275510204,Not Placed,0
+Business,No,231.807142857143,Placed,1
+Finance,No,229.842755102041,Placed,1
+Computer Science,No,257.344183673469,Placed,1
+Business,Yes,238.212755102041,Placed,1
+Business,Yes,183.551530612244,Placed,1
+Business,No,326.0,Placed,1
+Computer Science,No,250.511530612245,Placed,1
+Finance,No,169.202959183673,Placed,1
+Business,Yes,214.298469387755,Placed,1
+Business,Yes,187.82193877551,Placed,1
+Business,Yes,207.46581632653,Placed,1
+Computer Science,No,194.569183673469,Placed,1
+Computer Science,No,197.558469387755,Placed,1
+Computer Science,No,246.241122448979,Placed,1
+Business,No,235.223469387755,Placed,1
+Finance,No,257.173367346939,Placed,1
+Business,Yes,204.903571428571,Placed,1
+Engineering,No,223.522551020408,Not Placed,0
+Art,No,187.053265306122,Not Placed,0
+Finance,No,268.0,Not Placed,0
+Computer Science,No,242.824795918367,Placed,1
+Computer Science,No,227.024285714285,Placed,1
+Engineering,No,173.131734693877,Not Placed,0
+Computer Science,No,287.0,Not Placed,0
+Art,No,210.967551020408,Not Placed,0
+Computer Science,No,248.376326530612,Placed,1
+Business,Yes,257.002551020408,Placed,1
+Computer Science,No,219.764591836734,Placed,1
+Computer Science,No,196.277346938775,Placed,1
+Business,Yes,239.920918367347,Placed,1
+Art,No,182.782857142856,Not Placed,0
+Finance,No,198.668775510204,Placed,1
+Business,No,245.472448979592,Placed,1
+Business,No,234.369387755102,Placed,1
+Computer Science,No,229.586530612245,Placed,1
+Business,Yes,237.358673469388,Placed,1
+Computer Science,No,204.391122448979,Placed,1
+Computer Science,No,212.93193877551,Placed,1
+Engineering,Yes,265.0,Not Placed,0
+Computer Science,No,192.433979591836,Placed,1
+Computer Science,No,260.333469387755,Placed,1
+Computer Science,No,189.871734693877,Placed,1
+Business,Yes,340.0,Placed,1
+Engineering,No,227.792959183673,Not Placed,0
+Finance,No,225.999387755102,Placed,1
+Business,No,249.0,Not Placed,0
+Finance,No,242.22693877551,Placed,1
+Engineering,No,200.462346938775,Not Placed,0
+Finance,No,167.921836734693,Placed,1
+Engineering,No,181.672551020407,Not Placed,0
+Engineering,No,185.08887755102,Not Placed,0
+Engineering,No,218.825102040816,Not Placed,0
+Business,Yes,212.590306122449,Placed,1
+Finance,No,219.166734693877,Placed,1
+Art,No,213.529795918367,Not Placed,0
+Engineering,No,203.024591836734,Not Placed,0
+Computer Science,No,239.835510204081,Placed,1
+Computer Science,No,173.217142857142,Placed,1
+Engineering,No,258.96693877551,Not Placed,0
+Business,No,211.309183673469,Placed,1
+Art,No,177.231326530612,Not Placed,0
+Business,Yes,211.736224489795,Placed,1
+Business,Yes,221.131122448979,Placed,1
+Business,No,179.708163265306,Placed,1
+Art,No,226.341020408163,Not Placed,0
+Engineering,No,221.387346938775,Not Placed,0
+Engineering,No,196.19193877551,Not Placed,0
+Engineering,No,178.256224489795,Not Placed,0
+Business,No,181.416326530612,Placed,1
+Engineering,No,231.636326530612,Not Placed,0
+Business,Yes,258.710714285714,Placed,1
+Engineering,No,240.604183673469,Not Placed,0
+Finance,No,224.291224489796,Placed,1
+Computer Science,No,233.85693877551,Placed,1
+Finance,No,196.960612244898,Placed,1
+Business,Yes,226.255612244898,Placed,1
+Finance,No,199.949897959183,Placed,1
+Art,No,169.544591836734,Not Placed,0
+Art,No,199.437448979591,Not Placed,0
+Engineering,No,244.020510204081,Not Placed,0
+Finance,No,227.707551020408,Placed,1
+Business,No,213.017346938775,Placed,1
+Business,Yes,202.341326530612,Placed,1
+Business,No,242.056122448979,Placed,1
+Finance,No,232.832040816326,Placed,1
+Art,No,213.956836734693,Not Placed,0
+Art,No,251.963469387755,Not Placed,0
+Engineering,No,252.5613265306122,Not Placed,0
+Computer Science,No,221.899795918367,Placed,1
+Computer Science,No,196.704387755101,Placed,1
+Computer Science,No,169.373775510203,Placed,1
+Business,No,233.515306122449,Placed,1
+Finance,No,259.308571428571,Placed,1
+Engineering,No,252.13428571428568,Not Placed,0
+Computer Science,No,186.455408163265,Placed,1
+Engineering,No,194.483775510204,Not Placed,0
+Art,No,225.48693877551,Not Placed,0
+Engineering,No,188.505204081632,Not Placed,0
+Computer Science,No,181.330918367346,Placed,1
+Engineering,No,230.355204081632,Not Placed,0
+Engineering,No,201.743469387755,Not Placed,0
+Art,No,170.825714285714,Not Placed,0
+Computer Science,No,223.180918367347,Placed,1
+Business,No,323.0,Not Placed,0
+Finance,No,213.615204081632,Placed,1
+Finance,No,253.757040816326,Placed,1
+Art,No,223.351734693877,Not Placed,0
+Computer Science,No,234.711020408163,Placed,1
+Art,No,205.416020408163,Not Placed,0
+Business,Yes,175.010714285714,Placed,1
+Computer Science,No,254.78193877551,Placed,1
+Business,Yes,247.607653061224,Placed,1
+Art,No,232.319591836735,Not Placed,0
+Business,Yes,236.504591836735,Placed,1
+Finance,No,181.160102040816,Placed,1
+Business,No,152.0,Placed,1
+Engineering,No,233.344489795918,Not Placed,0
+Business,Yes,192.946428571428,Placed,1
+Business,Yes,227.963775510204,Placed,1
+Art,No,250.255306122449,Not Placed,0
+Business,No,191.665306122448,Placed,1
+Finance,No,202.512142857142,Placed,1
+Art,No,253.24459183673463,Not Placed,0
+Art,No,209.686428571428,Not Placed,0
+Computer Science,No,209.942653061224,Placed,1
+Computer Science,Yes,62.0,Not Placed,0
+Art,No,179.366530612244,Not Placed,0
+Finance,No,250.340714285714,Placed,1
+Art,No,220.789489795918,Not Placed,0
+Engineering,No,228.22,Not Placed,0
+Finance,No,222.156020408163,Placed,1
+Business,No,194.227551020408,Placed,1
+Business,Yes,198.924999999999,Placed,1
+Computer Science,No,421.0,Placed,1
+Business,No,243.764285714286,Placed,1
+Art,No,176.377244897958,Not Placed,0
+Engineering,No,248.717959183673,Not Placed,0
+Computer Science,No,198.412551020408,Placed,1
+Art,No,255.379795918367,Not Placed,0
+Engineering,No,255.123571428571,Not Placed,0
+Business,No,169.459183673469,Placed,1
+Art,No,202.853775510204,Not Placed,0
+Finance,No,178.597857142856,Placed,1
+Engineering,No,231.209285714285,Not Placed,0
+Computer Science,No,182.184999999999,Placed,1
+Computer Science,No,211.223775510204,Placed,1
+Business,No,240.347959183673,Placed,1
+Engineering,No,187.651122448979,Not Placed,0
+Art,No,245.557857142857,Not Placed,0
+Engineering,No,178.683265306122,Not Placed,0
+Computer Science,No,210.796734693877,Placed,1
+Engineering,No,253.842448979592,Not Placed,0
+Business,Yes,250.169897959184,Placed,1
+Engineering,No,189.786326530612,Not Placed,0
+Computer Science,No,225.743163265306,Placed,1
+Engineering,No,201.316428571428,Not Placed,0
+Finance,No,260.589693877551,Placed,1
+Computer Science,No,244.532959183673,Placed,1
+Engineering,No,208.576122448979,Not Placed,0
+Engineering,No,181.0,Placed,1
+Business,No,202.768367346938,Placed,1
+Computer Science,No,206.099285714285,Placed,1
+Art,No,231.465510204081,Not Placed,0
+Art,No,225.913979591836,Not Placed,0
+Finance,No,239.237653061224,Placed,1
+Computer Science,No,214.213061224489,Placed,1
+Engineering,No,340.0,Placed,1
+Finance,No,169.629999999999,Placed,1
+Computer Science,No,239.408469387755,Placed,1
+Business,Yes,169.886224489795,Placed,1
+Art,No,175.096122448979,Not Placed,0
+Engineering,No,204.73275510204,Not Placed,0
+Business,No,423.0,Not Placed,0
+Engineering,No,182.526632653061,Not Placed,0
+Computer Science,No,198.0,Placed,1
+Computer Science,No,174.925306122448,Placed,1
+Business,No,183.0,Not Placed,0
+Computer Science,No,189.017653061224,Placed,1
+Business,Yes,157.0,Not Placed,0
+Finance,No,223.437142857143,Placed,1
+Finance,No,170.484081632652,Placed,1
+Finance,No,167.06775510204,Placed,1
+Computer Science,No,197.131428571428,Placed,1
+Art,No,166.982346938775,Not Placed,0
+Art,No,249.828265306122,Not Placed,0
+Business,No,207.0,Not Placed,0
+Art,No,222.070612244898,Not Placed,0
+Business,Yes,248.461734693878,Placed,1
+Computer Science,No,171.508979591836,Placed,1
+Finance,No,236.675408163265,Placed,1
+Finance,No,216.604489795918,Placed,1
+Engineering,No,247.009795918367,Not Placed,0
+Computer Science,No,217.629387755102,Placed,1
+Engineering,No,214.554693877551,Not Placed,0
+Engineering,No,192.348571428571,Not Placed,0
+Art,No,184.918061224489,Not Placed,0
+Art,No,241.714489795918,Not Placed,0
+Engineering,No,207.722040816326,Not Placed,0
+Computer Science,No,255.0,Placed,1
+Computer Science,No,253.500816326531,Placed,1
+Computer Science,No,182.612040816326,Placed,1
+Computer Science,No,199.266632653061,Placed,1
+Computer Science,No,253.07377551020403,Placed,1
+Business,Yes,228.817857142857,Placed,1
+Finance,No,184.149387755101,Placed,1
+Computer Science,No,224.035,Placed,1
+Finance,No,203.793265306122,Placed,1
+Engineering,No,191.067448979591,Not Placed,0
+Finance,No,214.042244897959,Placed,1
+Art,No,209.0,Not Placed,0
+Computer Science,No,197.985510204081,Placed,1
+Business,No,218.141836734693,Placed,1
+Business,Yes,245.045408163265,Placed,1
+Business,Yes,254.440306122449,Placed,1
+Business,No,248.0,Placed,1
+Finance,No,194.825408163265,Placed,1
+Finance,No,220.874897959183,Placed,1
+Business,No,259.137755102041,Placed,1
+Computer Science,No,209.088571428571,Placed,1
+Engineering,No,191.494489795918,Not Placed,0
+Engineering,No,222.668469387755,Not Placed,0
+Engineering,No,220.533265306122,Not Placed,0
+Art,No,230.611428571428,Not Placed,0
+Computer Science,No,256.490102040816,Placed,1
+Engineering,No,251.707244897959,Not Placed,0
+Finance,No,181.587142857142,Placed,1
+Business,Yes,208.319897959183,Placed,1
+Business,Yes,259.564795918367,Placed,1
+Business,No,183.978571428571,Placed,1
+Finance,No,216.177448979592,Placed,1
+Finance,No,213.188163265306,Placed,1
+Finance,No,168.34887755102,Placed,1
+Engineering,No,242.739387755102,Not Placed,0
+Business,No,254.013265306122,Placed,1
+Business,No,224.974489795918,Placed,1
+Business,No,187.394897959183,Placed,1
+Computer Science,No,235.992142857143,Placed,1
+Engineering,No,227.365918367347,Not Placed,0
+Business,Yes,210.882142857142,Placed,1
+Art,No,172.106836734693,Not Placed,0
+Finance,No,209.771836734693,Placed,1
+Computer Science,No,377.0,Not Placed,0
+Business,Yes,186.113775510203,Placed,1
+Engineering,No,215.237959183673,Not Placed,0
+Art,No,229.757346938775,Not Placed,0
+Art,No,187.907346938775,Not Placed,0
+Computer Science,No,230.440612244898,Placed,1
+Engineering,No,98.0,Not Placed,0
+Computer Science,No,186.0,Placed,1
+Business,Yes,169.032142857142,Placed,1
+Finance,No,172.192244897958,Placed,1
+Finance,No,205.501428571428,Placed,1
+Engineering,No,193.202653061224,Not Placed,0
+Art,No,189.188469387754,Not Placed,0
+Finance,No,187.138673469387,Placed,1
+Art,No,230.184387755102,Not Placed,0
+Computer Science,No,214.640102040816,Placed,1
+Art,No,248.120102040816,Not Placed,0
+Art,No,171.679795918367,Not Placed,0
+Engineering,No,232.063367346938,Not Placed,0
+Engineering,No,168.007244897959,Not Placed,0
+Computer Science,No,171.08193877551,Placed,1
+Finance,No,184.576428571428,Placed,1
+Business,No,172.875510204081,Placed,1
+Finance,No,183.295306122448,Placed,1
+Computer Science,No,253.927857142857,Placed,1
+Business,Yes,168.178061224489,Placed,1
+Computer Science,No,213.786020408163,Placed,1
+Finance,No,171.765204081632,Placed,1
+Engineering,No,241.885306122449,Not Placed,0
+Finance,No,249.059591836735,Placed,1
+Computer Science,No,225.316122448979,Placed,1
+Computer Science,No,209.515612244898,Placed,1
+Art,No,200.291530612244,Not Placed,0
+Art,No,221.216530612245,Not Placed,0
+Engineering,No,242.312346938775,Not Placed,0
+Engineering,No,246.582755102041,Not Placed,0
+Finance,No,172.619285714285,Placed,1
+Computer Science,No,187.309489795918,Placed,1
+Finance,No,215.237959183673,Placed,1
+Art,No,203.707857142857,Not Placed,0
+Art,No,207.978265306122,Not Placed,0
+Engineering,No,332.0,Placed,1
+Engineering,No,212.846530612244,Not Placed,0
+Engineering,No,186.369999999999,Not Placed,0
+Business,Yes,180.989285714285,Placed,1
+Computer Science,No,188.163571428571,Placed,1
+Business,Yes,213.444387755102,Placed,1
+Business,Yes,242.483163265306,Placed,1
+Art,No,256.660918367347,Not Placed,0
+Computer Science,No,221.045714285714,Placed,1
+Finance,No,231.12387755102,Placed,1
+Computer Science,No,186.028367346938,Placed,1
+Computer Science,No,224.462040816326,Placed,1
+Finance,No,209.344795918367,Placed,1
+Art,Yes,376.0,Not Placed,0
+Computer Science,No,258.625306122449,Placed,1
+Finance,No,218.739693877551,Placed,1
+Computer Science,No,180.049795918367,Placed,1
+Engineering,No,217.11693877551,Not Placed,0
+Finance,No,233.686122448979,Placed,1
+Engineering,No,209.430204081632,Not Placed,0
+Business,Yes,181.843367346938,Placed,1
+Finance,No,234.967244897959,Placed,1
+Computer Science,No,230.867653061224,Placed,1
+Art,No,216.519081632653,Not Placed,0
+Computer Science,No,195.850306122449,Placed,1
+Business,Yes,289.0,Placed,1
+Computer Science,No,240.262551020408,Placed,1
+Business,No,183.124489795918,Placed,1
+Finance,No,226.853469387755,Placed,1
+Business,Yes,215.152551020408,Placed,1
+Computer Science,No,193.288061224489,Placed,1
+Computer Science,No,200.974795918367,Placed,1
+Engineering,No,258.112857142857,Not Placed,0
+Finance,No,193.971326530612,Placed,1
+Business,Yes,249.0,Placed,1
+Business,No,214.725510204081,Placed,1
+Computer Science,No,231.721734693877,Placed,1
+Finance,No,187.565714285714,Placed,1
+Finance,No,257.600408163265,Placed,1
+Engineering,No,171.850612244897,Not Placed,0
+Computer Science,No,243.67887755102,Placed,1
+Engineering,No,226.511836734694,Not Placed,0
+Art,No,176.804285714285,Not Placed,0
+Computer Science,No,175.779387755101,Placed,1
+Finance,No,217.885612244898,Placed,1
+Art,No,216.092040816326,Not Placed,0
+Business,No,168.605102040816,Placed,1
+Business,Yes,176.71887755102,Placed,1
+Art,No,236.59,Not Placed,0
+Business,No,178.854081632652,Placed,1
+Art,No,243.422653061224,Not Placed,0
+Business,No,164.0,Placed,1
+Art,No,183.209897959183,Not Placed,0
+Finance,No,197.387653061224,Placed,1
+Art,No,215.237959183673,Not Placed,0
+Art,No,169.117551020407,Not Placed,0
+Engineering,No,229.501122448979,Not Placed,0
+Computer Science,No,221.47275510204,Placed,1
+Business,Yes,220.277040816326,Placed,1
+Computer Science,No,251.792653061224,Placed,1
+Computer Science,No,203.537040816326,Placed,1
+Engineering,No,217.543979591836,Not Placed,0
+Finance,No,190.127959183673,Placed,1
+Finance,No,175.181530612244,Placed,1
+Engineering,No,200.889387755102,Not Placed,0
+Art,No,185.772142857142,Not Placed,0
+Engineering,No,245.301632653061,Not Placed,0
+Computer Science,No,188.590612244897,Placed,1
+Finance,No,170.911122448979,Placed,1
+Finance,No,206.782551020408,Placed,1
+Finance,No,190.554999999999,Placed,1
+Engineering,No,249.999081632653,Not Placed,0
+Computer Science,No,220.191632653061,Placed,1
+Art,No,205.843061224489,Not Placed,0
+Computer Science,No,205.672244897959,Placed,1
+Art,No,228.903265306122,Not Placed,0
+Business,No,242.0,Not Placed,0
+Finance,No,221.30193877551,Placed,1
+Computer Science,No,212.077857142857,Placed,1
+Finance,No,177.316734693877,Placed,1
+Art,No,193.885918367346,Not Placed,0
+Art,No,238.725204081632,Not Placed,0
+Business,No,175.43775510204,Placed,1
+Engineering,No,250.426122448979,Not Placed,0
+Art,No,254.952755102041,Not Placed,0
+Art,No,195.167040816326,Not Placed,0
+Engineering,No,188.078163265306,Not Placed,0
+Art,No,247.69306122449,Not Placed,0
+Computer Science,No,205.245204081632,Placed,1
+Business,Yes,232.234183673469,Placed,1
+Finance,No,234.540204081632,Placed,1
+Finance,No,179.878979591836,Placed,1
+Computer Science,No,250.084489795918,Placed,1
+Art,No,233.600714285714,Not Placed,0
+Business,Yes,186.967857142857,Placed,1
+Business,No,201.060204081632,Placed,1
+Finance,No,160.0,Placed,1
+Computer Science,No,219.337551020408,Placed,1
+Business,Yes,194.654591836734,Placed,1
+Engineering,No,233.771530612245,Not Placed,0
+Business,Yes,175.864795918367,Placed,1
+Computer Science,No,167.238571428571,Placed,1
+Art,No,190.042551020408,Not Placed,0
+Computer Science,No,145.0,Not Placed,0
+Computer Science,No,180.90387755102,Placed,1
+Art,No,175.950204081632,Not Placed,0
+Finance,No,246.497346938775,Placed,1
+Engineering,No,211.992448979591,Not Placed,0
+Business,No,213.871428571428,Placed,1
+Art,No,219.935408163265,Not Placed,0
+Art,No,222.924693877551,Not Placed,0
+Engineering,No,215.408775510204,Not Placed,0
+Business,Yes,189.530102040816,Placed,1
+Finance,No,230.696836734694,Placed,1
+Business,Yes,167.0,Placed,1
+Art,No,249.401224489796,Not Placed,0
+Art,No,234.454795918367,Not Placed,0
+Computer Science,No,255.636020408163,Placed,1
+Computer Science,No,245.814081632653,Placed,1
+Engineering,No,260.675102040816,Not Placed,0
+Finance,No,207.636632653061,Placed,1
+Finance,No,217.031530612245,Placed,1
+Art,No,244.703775510204,Not Placed,0
+Business,No,208.74693877551,Placed,1
+Business,Yes,192.092346938775,Placed,1
+Finance,No,146.0,Not Placed,0
+Art,No,259.650204081633,Not Placed,0
+Computer Science,No,241.543673469388,Placed,1
+Computer Science,Yes,101.0,Placed,1
+Engineering,No,226.084795918367,Not Placed,0
+Business,No,184.832653061224,Placed,1
+Business,No,252.0,Placed,1
+Business,No,177.145918367346,Placed,1
+Finance,No,220.02081632653,Placed,1
+Art,No,257.515,Not Placed,0
+Business,No,193.373469387755,Placed,1
+Engineering,No,198.754183673469,Not Placed,0
+Business,No,185.686734693877,Placed,1
+Business,Yes,167.323979591836,Placed,1
+Business,No,237.785714285714,Placed,1
+Finance,No,195.679489795918,Placed,1
+Business,No,241.202040816326,Placed,1
+Engineering,No,185.515918367346,Not Placed,0
+Art,No,208.832346938775,Not Placed,0
+Engineering,No,247.436836734694,Not Placed,0
+Art,No,182.0,Placed,1
+Computer Science,No,232.57581632653,Placed,1
+Art,No,178.939489795918,Not Placed,0
+Business,Yes,231.380102040816,Placed,1
+Finance,No,246.924387755102,Placed,1
+Computer Science,No,176.633469387754,Placed,1
+Finance,No,248.0,Not Placed,0
+Engineering,No,215.237959183673,Not Placed,0
+Art,No,126.0,Placed,1
+Engineering,No,235.052653061224,Not Placed,0
+Engineering,No,168.434285714285,Not Placed,0
+Business,No,210.455102040816,Placed,1
+Art,No,212.248673469387,Not Placed,0
+Engineering,No,279.0,Placed,1
+Computer Science,No,200.54775510204,Placed,1
+Computer Science,No,233.002857142857,Placed,1
+Business,Yes,252.7321428571428,Placed,1
+Finance,No,261.016734693878,Placed,1
+Computer Science,No,192.861020408163,Placed,1
+Business,Yes,214.0,Placed,1
+Engineering,No,239.32306122449,Not Placed,0
+Art,No,198.583367346938,Not Placed,0
+Finance,No,171.338163265305,Placed,1
+Engineering,No,228.647040816326,Not Placed,0
+Art,No,260.504285714286,Not Placed,0
+Business,Yes,255.294387755102,Placed,1
+Computer Science,No,227.451326530612,Placed,1
+Art,No,196.448163265306,Not Placed,0
+Engineering,No,179.537346938775,Not Placed,0
+Business,No,201.914285714285,Placed,1
+Engineering,No,239.750102040816,Not Placed,0
+Business,No,222.412244897959,Placed,1
+Finance,No,220.447857142857,Placed,1
+Business,Yes,225.401530612245,Placed,1
+Engineering,No,221.814387755102,Not Placed,0
+Finance,No,189.27387755102,Placed,1
+Finance,No,244.789183673469,Placed,1
+Art,No,184.0,Not Placed,0
+Finance,No,240.518775510204,Placed,1
+Finance,No,246.070306122449,Placed,1
+Computer Science,No,322.0,Not Placed,0
+Business,No,133.0,Not Placed,0
+Finance,No,175.608571428571,Placed,1
+Art,No,204.988979591836,Not Placed,0
+Finance,No,251.194795918367,Placed,1
+Art,No,202.426734693877,Not Placed,0
+Computer Science,No,227.878367346938,Placed,1
+Engineering,No,176.548061224489,Not Placed,0
+Business,No,130.0,Not Placed,0
+Finance,No,206.355510204081,Placed,1
+Business,No,242.910204081632,Placed,1
+Computer Science,No,177.914591836734,Placed,1
+Art,No,196.021122448979,Not Placed,0
+Engineering,No,199.181224489795,Not Placed,0
