@@ -24,8 +24,10 @@ This project will identify a list of factors that highly correlate with an MBA g
 
 - Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
-- Feature Engineering?
-- Predictive Modeling?
+    - Univariate Analysis
+    - Bivariate Analysis
+- Predictive Modeling
+    - Decision Tree
 - Model Evaluation ?
 - Cross-validation?
 
