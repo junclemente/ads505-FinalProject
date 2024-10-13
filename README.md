@@ -12,9 +12,11 @@ To set up and run this project, please follow these steps:
 
 # Project Intro / Objective
 
-A business school startup is interested to know if it’s possible to take a data-driven approach for accepting students into their MBA program as opposed to their current method of intuition. Using a data-driven approach could uncover patterns in admissions and improve decision-making efficiency, resulting in better student outcomes.
+A newly established business school is exploring whether a data-driven approach to their admissions process can be more effective that their current method of using intuition. By adopting a data-driven strategy, the school hope to uncover patterns in student admissions that can improve decision-making and lead to better post-graduation outcomes, such as higher job placement rates. 
 
-This project will identify a list of factors that highly correlate with an MBA graduate who finds employment within two months of graduation. Using a data-driven approach has the potential to improve admissions accuracy ensuring that the school continues to produce high graduation and employment placement rates. This could position the school as a prestigious, trustworthy school for prospective MBA students. 
+The school has provided data from its first graduating class, including information on undergraduate degrees, MBA performance, work experience, and employment status two months after graduation. The objective of this project is to identify key factors that strongly correlate with post-graduation employment. These insights could be used to refine the admissions process, allowing the school to admit candidates with a higher likelihood of success, resulting in better graduation rates and job placement outcomes. 
+
+A data-drive approach has the potential to improve the efficiency of the admissions process but also positions the school as a forward-thinking and prestigious institution. The ultimate goal is to ensure continuing success for future graduates and to enhance the school's reputation as a trusted destination for aspiring MBA candidates.  
 
 # Contributors
 
@@ -33,7 +35,14 @@ This project will identify a list of factors that highly correlate with an MBA g
 - Hyperparameter Tuning
     - RandomizedSearchCV
     - GridSearchCV
-- Model Evaluation ?
+- Model Evaluation
+    - Classification Reports
+        - Accuracy
+        - Recall
+        - Precision 
+        - F1
+    - k-Fold Cross Validation
+    - AUC-ROC 
 
 # Technologies
 
@@ -50,6 +59,8 @@ This project will identify a list of factors that highly correlate with an MBA g
 - Conda
 
 # Project Description 
+
+This project aims to determine if there are identifiable factors that can predict job placement success for MBA graduates. By analyzing data provided on the business school's first graduating class, the project will determine key indicators that correlate with job placement within two months of graduation. 
 
 ## Data Dictionary
 
